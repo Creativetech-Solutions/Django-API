@@ -1,0 +1,7 @@
+ django-admin startproject upartner
+ python manage.py startapp partner
+ python manage.py migrate
+ pip install djangorestframework, rest_framework.schemas
+ pygments
+ httpie
+ coreapi

@@ -99,7 +99,7 @@ class Radius(Dict):
 
     def getToken(self): 
         # get token from api
-        params = {"username": "ufone-ops", "password" : "4ze#hDK3BDd#^f9y"}
+        params = {"username": "", "password" : ""}
         response = self.post(params, 'login', 'post')
         response = response.json()
         if response['status'] == 1:

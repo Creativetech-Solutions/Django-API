@@ -17,7 +17,7 @@ Go into the project folder and create virtual enviornment - pipenv shell
 
 Outside shell, inside project folder ,install all required packages and add them to pip file - pipenv install <pkg name>
   
-Finally, launch shell - pipenv
+Finally, launch shell - pipenv shell
 
 Run django server - python manage.py runserver
 

@@ -34,5 +34,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Creativetech Solutions** - *Initial work* - [Creativetech](https://github.com/Creativetech-Solutions/)
+* **Creativetech Solutions** - [Creativetech](https://github.com/Creativetech-Solutions/)
 

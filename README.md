@@ -21,10 +21,6 @@ Finally, launch shell - pipenv shell
 
 Run django server - python manage.py runserver
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Django](https://docs.djangoproject.com/en/2.1/) - The web framework used

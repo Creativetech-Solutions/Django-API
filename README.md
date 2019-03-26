@@ -13,9 +13,12 @@ As prerequisites you must have installed python 3.6 - Git clone the repositry or
 
 ### Installing
 
-Go into the project folder and create virtaul enviornment - pipenv shell
+Go into the project folder and create virtual enviornment - pipenv shell
+
 Outside shell, inside project folder ,install all required packages and add them to pip file - pipenv install <pkg name>
+  
 Finally, launch shell - pipenv
+
 Run django server - python manage.py
 
 Explain what these tests test and why

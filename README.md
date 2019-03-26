@@ -11,10 +11,6 @@ Before start, please note this API is using remote database - so the database cr
 
 As prerequisites you must have installed python 3.6 - Git clone the repositry or download the zip file. Created the virtual environment throught Pipenv(or whichever you like). Install the required packages like django, requests, dateutil and add them to pipenv with command Pipenv install <pkg name> for future use. Launch the environment throught command pipenv shell - 
 
-```
-Give examples
-```
-
 ### Installing
 
 Go into the project folder and create virtaul enviornment - pipenv shell
@@ -35,5 +31,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Creativetech Solutions** - *Initial work* - [PurpleBooth](https://github.com/Creativetech-Solutions/)
+* **Creativetech Solutions** - *Initial work* - [Creativetech](https://github.com/Creativetech-Solutions/)
 

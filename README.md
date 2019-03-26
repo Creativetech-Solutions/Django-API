@@ -19,9 +19,7 @@ Outside shell, inside project folder ,install all required packages and add them
   
 Finally, launch shell - pipenv
 
-Run django server - python manage.py
-
-Explain what these tests test and why
+Run django server - python manage.py runserver
 
 ## Deployment
 
